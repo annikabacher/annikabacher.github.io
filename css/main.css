@@ -20,10 +20,23 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 2em;
     font-family:'Helvetica', 'Arial','Palatino';
     color: #581845;
 }
+
+h2 {
+    font-size: 1.8em;
+    font-family:'Helvetica', 'Arial','Palatino';
+    color: #581845;
+}
+
+h3 {
+    font-size: 1.5em;
+    font-family:'Helvetica', 'Arial','Palatino';
+    color: #313131;
+}
+
+
 p {
     font-size: 1.2em;
     line-height: 1.1em;
