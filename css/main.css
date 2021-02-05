@@ -20,13 +20,14 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 3em;
+    font-size: 2em;
     font-family:'Helvetica', 'Arial','Palatino';
+    color: #581845;
 }
 p {
     font-size: 1.2em;
     line-height: 1.1em;
-    color: #1A1A1A;
+    color: #313131;
 }
 footer {
     border-top: 1px solid #d5d5d5;
