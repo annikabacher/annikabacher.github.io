@@ -19,20 +19,24 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+body {
+  padding:50px;
+  font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight:300;
+}
+
 h1 {
-    font-family:'Helvetica', 'Arial','Palatino';
     color: #581845;
 }
 
 h2 {
     font-size: 1.8em;
-    font-family:'Helvetica', 'Arial','Palatino';
     color: #581845;
 }
 
 h3 {
     font-size: 1.3em;
-    font-family:'Helvetica', 'Arial','Palatino';
     color: #313131;
 }
 
