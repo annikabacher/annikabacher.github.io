@@ -23,26 +23,23 @@ a:hover {
 
 
 h1 {
-    font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font:20px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #581845;
 }
 
 h2 {
-    font-size: 1.8em;
-    font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font:18px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #581845;
 }
 
 h3 {
-    font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 1.3em;
+    font:16px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif
     color: #313131;
 }
 
 
 p {
-    font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 1.2em;
+    font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif
     line-height: 1.1em;
     color: #313131;
 }
