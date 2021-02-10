@@ -23,23 +23,23 @@ a:hover {
 
 
 h1 {
-    font:30px/1.5 Lato;
+    font:30px/1.5 'Muli';
     color: #581845;
 }
 
 h2 {
-    font:25px/1.5 Lato;
+    font:25px/1.5 'Muli';
     color: #581845;
 }
 
 h3 {
-    font:23px/1.5 Lato;
+    font:23px/1.5 'Muli';
     color: #313131;
 }
 
 
 p {
-    font:19px/1.5 Lato;
+    font:17px/1.5 'Muli';
     line-height: 1.1em;
     color: #313131;
 }
