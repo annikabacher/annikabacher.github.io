@@ -20,28 +20,28 @@ a:hover {
     text-decoration: underline;
 }
 
-body {
-  padding:50px;
-  font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-weight:300;
-}
+
 
 h1 {
+    font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #581845;
 }
 
 h2 {
     font-size: 1.8em;
+    font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #581845;
 }
 
 h3 {
+    font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 1.3em;
     color: #313131;
 }
 
 
 p {
+    font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 1.2em;
     line-height: 1.1em;
     color: #313131;
