@@ -3,7 +3,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial','Palatino';
+    font-family:'Muli';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -23,23 +23,23 @@ a:hover {
 
 
 h1 {
-    font:20px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font:20px/1.5 Muli;
     color: #581845;
 }
 
 h2 {
-    font:18px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font:18px/1.5 Muli;
     color: #581845;
 }
 
 h3 {
-    font:16px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif
+    font:16px/1.5 Muli;
     color: #313131;
 }
 
 
 p {
-    font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif
+    font:14px/1.5 Muli;
     line-height: 1.1em;
     color: #313131;
 }
